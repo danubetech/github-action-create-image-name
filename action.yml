@@ -1,0 +1,5 @@
+name: 'github-action-create-image-name'
+description: 'Github action to create image name and set as output'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

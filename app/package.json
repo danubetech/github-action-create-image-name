@@ -1,0 +1,27 @@
+{
+  "name": "github-action-create-image-name",
+  "version": "1.0.0",
+  "description": "Github action to create image name and set as output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danubetech/github-action-create-image-name.git"
+  },
+  "keywords": [
+    "CI",
+    "Action",
+    "Workflow"
+  ],
+  "author": "Bernhard Fuchs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danubetech/github-action-create-image-name/issues"
+  },
+  "homepage": "https://github.com/danubetech/github-action-create-image-name#readme",
+  "dependencies": {
+    "@actions/core": "^1.5.0"
+  }
+}
